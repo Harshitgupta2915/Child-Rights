@@ -11,7 +11,8 @@ const quotes = [
     "Children are the world’s most valuable resource and its best hope for the future.",
     "To every child – a fair chance.",
     "Every child has the right to protection, to education, to healthcare, to a childhood.",
-    "Justice for children is ensuring that every law, every court, every policy sees them not as miniature adults, but as individuals with unique rights"
+  "Justice for children is ensuring that every law, every court, every policy sees them not as miniature adults, but as individuals with unique rights",
+    "Children are not things to be molded, but are people to be unfolded.",
 ];
 
 export default function QuotesLoop() {
